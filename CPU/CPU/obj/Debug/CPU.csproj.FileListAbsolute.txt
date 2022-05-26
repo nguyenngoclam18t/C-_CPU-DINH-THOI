@@ -1,0 +1,10 @@
+D:\C#_begin_noob\CPU\CPU\bin\Debug\CPU.exe.config
+D:\C#_begin_noob\CPU\CPU\bin\Debug\CPU.exe
+D:\C#_begin_noob\CPU\CPU\bin\Debug\CPU.pdb
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.csproj.AssemblyReference.cache
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.Form1.resources
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.cache
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.csproj.CoreCompileInputs.cache
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.exe
+D:\C#_begin_noob\CPU\CPU\obj\Debug\CPU.pdb
